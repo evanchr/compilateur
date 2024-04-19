@@ -3,5 +3,3 @@
 .idea/*
 .settings/*
 bin/*
-src/g2java.bat
-bin/projetParser.class
