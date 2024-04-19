@@ -1,0 +1,7 @@
+/2024-libClass_Projet/
+.classpath
+.idea/*
+.settings/*
+bin/*
+src/g2java.bat
+bin/projetParser.class

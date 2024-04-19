@@ -1,0 +1,43 @@
+FICHIER polyP33-exempleChapV.gen : 
+
+   1  reserver        4
+   3  bincond        61
+   5  reserver        1
+   7  empiler         5
+   9  contenul        0   0
+  12  contenul        5   0
+  15  mul       
+  16  add       
+  17  empiler        10
+  19  sous      
+  20  contenul        1   1
+  23  sup       
+  24  contenug        2
+  26  et        
+  27  ecrbool   
+  28  lirent    
+  29  affecterl       5   0
+  32  contenul        5   0
+  35  empiler        -1
+  37  eg        
+  38  affecterl       2   1
+  41  contenul        5   0
+  44  contenul        0   0
+  47  sup       
+  48  bsifaux        59
+  50  contenul        1   1
+  53  empiler         1
+  55  add       
+  56  affecterl       1   1
+  59  retour          3
+  61  lirent    
+  62  affecterg       0
+  64  empiler         0
+  66  affecterg       1
+  68  contenug        0
+  70  empiler        10
+  72  mul       
+  73  empileradg      1
+  75  empileradg      2
+  77  appel           5   3
+  80  arret     
